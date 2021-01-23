@@ -1,4 +1,4 @@
-# ZCW-MicroLabs-Streams-And-Lambdas:<br>The Person Factory
+Streams And Lambdas:<br>The Person Factory
 * **Purpose** - to demonstrate stream usage.
 
 ## Part 1
@@ -20,4 +20,4 @@
 	* `StreamConverter` - demonstrates the conversion from `Stream<SomeType>` to
 		* array representation: `SomeType[]`
 		* list representation: `List<SomeType>`
-# streams-lambdas-person-factory
+
