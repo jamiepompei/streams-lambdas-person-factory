@@ -1,4 +1,4 @@
-## Streams And Lambdas:<br>The Person Factory
+## Streams And Lambdas: The Person Factory<br>
 * **Purpose** - to demonstrate stream usage.
 
 ## Part 1 
