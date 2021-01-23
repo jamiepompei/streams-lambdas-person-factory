@@ -1,7 +1,7 @@
-#Streams And Lambdas:<br>The Person Factory
+## Streams And Lambdas:<br>The Person Factory
 * **Purpose** - to demonstrate stream usage.
 
-## Part 1
+## Part 1 
 * **Note** - The `Person` class is a representation of a respective `Person` object.
 * **Objective** - to implement the following classes:
 	* `PersonFactory` - generates `Person` objects.
